@@ -1,4 +1,5 @@
-# 🎵 DEEPNIGHT DSP v1.0.0 — Studio Audio Processor for Android TV
+# 🎵 DEEPNIGHT DSP v1.0.0 
+Studio Audio Processor for Android TV
 
 > **Автор идеи и концепта**: **`~ИГОРЬ~ (4PDA)`**  
 > **Официальный профиль GitHub**: [Igor1974](https://github.com/Igor1974)  
