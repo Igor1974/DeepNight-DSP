@@ -1,6 +1,11 @@
 # 🎵 DEEPNIGHT DSP v1.0.0 
 Studio Audio Processor for Android TV
 
+[![Android TV](https://img.shields.io/badge/Platform-Android%20TV-00E5FF?style=for-the-badge&logo=android)](https://github.com/Igor1974/DeepNight-DSP)
+[![Version](https://img.shields.io/badge/Version-1.0.0-10B981?style=for-the-badge)](https://github.com/Igor1974/DeepNight-DSP/releases)
+[![License](https://img.shields.io/badge/License-PRO%20Ultimate-FFD600?style=for-the-badge)](https://github.com/Igor1974/DeepNight-DSP)
+[![Language](https://img.shields.io/badge/Language-Kotlin%20%2F%20C%2B%2B-A855F7?style=for-the-badge)](https://github.com/Igor1974/DeepNight-DSP)
+
 > **Автор идеи и концепта**: **`~ИГОРЬ~ (4PDA)`**  
 > **Официальный профиль GitHub**: [Igor1974](https://github.com/Igor1974)  
 > **Официальный релиз**: [Скачать APK (Releases)](https://github.com/Igor1974/DeepNight-DSP/releases)
@@ -11,11 +16,8 @@ Studio Audio Processor for Android TV
 
 ---
 
-## 🌟 О программе
-
-**DeepNight DSP** — это автономный 15-полосный аудиопроцессор студийного класса, разработанный специально для Android TV, смарт-телевизоров и ТВ-приставок.
-
-Программа кардинально улучшает звучание любых колонок, саундбаров и наушников благодаря нативному C++ ядру обработки спектра.
+> [!TIP]
+> **DeepNight DSP** — это автономный 15-полосный аудиопроцессор студийного класса, разработанный специально для Android TV, смарт-телевизоров и ТВ-приставок. Программа кардинально улучшает звучание любых колонок, саундбаров и наушников благодаря нативному C++ ядру обработки спектра.
 
 ---
 
@@ -41,14 +43,16 @@ Studio Audio Processor for Android TV
 ### Инструкция по активации:
 1. Отсканируйте QR-код в приложении или перейдите по ссылке на ЮMoney (390 руб.).
 2. Отправьте ваш **ID устройства** (отображается в окне приложения) на email: **Deep-Nigth@ya.ru**
-3. Введите полученный ключ активации в окне «Ввести ключ PRO».
+3. Введите полученный 12-значный ключ активации в окне «Ввести ключ PRO».
 
 ---
 
 ## 📥 Скачать
-Готовый установочный APK-файл находится в разделе **[Releases](https://github.com/Igor1974/DeepNight-DSP/releases)**.
+
+Готовый подписанный установочный APK-файл доступен в разделе **[Releases](https://github.com/Igor1974/DeepNight-DSP/releases)**.
 
 ---
 
-© 2026 **~ИГОРЬ~ (4PDA)** • ALL RIGHTS RESERVED.  
-*Копирование, перепродажа и декомпиляция кода запрещены.*
+> [!IMPORTANT]
+> © 2026 **~ИГОРЬ~ (4PDA)** • ALL RIGHTS RESERVED.  
+> *Копирование, перепродажа и декомпиляция кода запрещены.*
