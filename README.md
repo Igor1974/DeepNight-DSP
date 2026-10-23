@@ -1,7 +1,7 @@
-# 🎵 DEEPNIGHT DSP v1.0.0 — Studio Audio Processor for Android TV
+# 🎵 DEEPNIGHT DSP v1.0.1 — Studio Audio Processor for Android TV
 
 [![Android TV](https://img.shields.io/badge/Platform-Android%20TV-00E5FF?style=for-the-badge&logo=android)](https://github.com/Igor1974/DeepNight-DSP)
-[![Version](https://img.shields.io/badge/Version-1.0.0-10B981?style=for-the-badge)](https://github.com/Igor1974/DeepNight-DSP/releases)
+[![Version](https://img.shields.io/badge/Version-1.0.1-10B981?style=for-the-badge)](https://github.com/Igor1974/DeepNight-DSP/releases)
 [![License](https://img.shields.io/badge/License-PRO%20Ultimate-FFD600?style=for-the-badge)](https://github.com/Igor1974/DeepNight-DSP)
 [![Language](https://img.shields.io/badge/Language-Kotlin%20%2F%20C%2B%2B-A855F7?style=for-the-badge)](https://github.com/Igor1974/DeepNight-DSP)
 
